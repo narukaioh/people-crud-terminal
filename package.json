@@ -4,7 +4,8 @@
   "description": "sistema para gerenciar cadastro de pessoas",
   "main": "main.js",
   "scripts": {
-    "start": "nodemon main.js"
+    "start": "node main.js",
+    "dev": "nodemon main.js"
   },
   "keywords": [
     "pessoas",
@@ -14,6 +15,7 @@
   "author": "Luana R. Silva, Ju Dantas",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.19"
+    "nodemon": "^2.0.19",
+    "readline-sync": "^1.4.10"
   }
 }
