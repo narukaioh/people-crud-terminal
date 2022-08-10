@@ -1,0 +1,19 @@
+{
+  "name": "sistema-pessoas",
+  "version": "1.0.0",
+  "description": "sistema para gerenciar cadastro de pessoas",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "keywords": [
+    "pessoas",
+    "exercicio",
+    "javascript"
+  ],
+  "author": "Luana R. Silva, Ju Dantas",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
